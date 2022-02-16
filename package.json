@@ -1,0 +1,22 @@
+{
+  "name": "cs571-student-info",
+  "description": "SFBU MSCS Homework. Course Code: CS571",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http": "^11.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkhan-sfbu/cs571-student-info.git"
+  },
+  "keywords": [],
+  "author": "Md Shahadat Hossain Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkhan-sfbu/cs571-student-info/issues"
+  },
+  "homepage": "https://github.com/mkhan-sfbu/cs571-student-info"
+}
