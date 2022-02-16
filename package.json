@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "http": "^11.0.0"
+    "http": "^0.0.1"
   },
   "repository": {
     "type": "git",
