@@ -1,0 +1,9 @@
+{
+    "name": "gcp-kubernetes-node-sfbu-19609-student-info",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "http": "^11.0.0"
+    }
+  }
